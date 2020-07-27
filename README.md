@@ -1,0 +1,6 @@
+# Basic-Binder
+Basic software binder in C#
+This basically gets the file location (EX:\\example\exampledir\example.exe) of two applications and runs them both at the same time...
+Thats it...
+
+Author: Pietone
